@@ -3,6 +3,8 @@
     height: 60px;
     background-color: #668284;
     border-radius: 5px;
+    position: fixed; /* The header will stay at the same position */
+    z-index: 1; /* Giving the header priority when we scroll */
 }
 
 #footer {
@@ -11,7 +13,7 @@
     margin-top: 10px;
     background-color: #668284;
     border-radius: 5px;
-    clear: both; 
+    clear: both;
 }
 
 .left {
