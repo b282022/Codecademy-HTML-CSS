@@ -1,0 +1,10 @@
+/*Add your CSS below!*/
+
+div {
+  width: 100px;
+  height: 100px;
+	display: inline-block;
+	margin-left: 5px;
+	border-radius: 100%;
+	border: 2px solid black;
+}
