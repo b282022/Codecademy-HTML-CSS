@@ -1,5 +1,4 @@
-/*Add your CSS below!*/
-li a {
-  text-decoration: none;
+.fancy {
   font-family: cursive;
+  color: #0000CD;
 }
