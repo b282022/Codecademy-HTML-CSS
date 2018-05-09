@@ -1,5 +1,8 @@
-/*Define your CSS id #serious below!*/
-#serious {
-    font-family: Courier;
-    color: #CC0000;
+#intro {
+  color: #B83C3A;
+}
+
+.standout {
+  color: #F7AC5F;
+  font-family: Verdana;
 }
