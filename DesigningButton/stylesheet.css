@@ -21,3 +21,12 @@ div {
 	margin: auto;	/* Sets equal margin on all sides of the HTML element */
 	text-align: center;	/* Centers the text elements */
 }
+a {
+	text-decoration: none; /* Disabling the text decoration */
+	font-family: Verdana;
+	color: #3D59AB;
+}
+span {
+	font-weight: bold;	/* Making the text bold */
+	color: white;	/* Assigning text color to white */
+}
