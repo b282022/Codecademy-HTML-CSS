@@ -1,0 +1,35 @@
+#header {
+    width: 97.5%;
+    height: 60px;
+    background-color: #668284;
+    border-radius: 5px;
+}
+
+#footer {
+    width: 97.5%;
+    height: 60px;
+    margin-top: 10px;
+    background-color: #668284;
+    border-radius: 5px;
+    clear: both; 
+}
+
+.left {
+    width: 10%;
+    height: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #B9D7D9;
+    border-radius: 5px;
+    float: left;
+}
+
+.right {
+    width: 88%;
+    height: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #F4EBC3;
+    border-radius: 5px;
+    float: right;
+}
